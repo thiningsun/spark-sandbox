@@ -1,4 +1,4 @@
-Spark Sandbox
+Spark Sandbox (Spark Streaming 中如何实现 Exactly-Once 语义)
 =============
 
 [![Build Status](https://travis-ci.org/jizhang/spark-sandbox.svg?branch=master)](https://travis-ci.org/jizhang/spark-sandbox)
